@@ -1,0 +1,13 @@
+h1{
+    color: turquoise /* propriedade color e valor dodgerblue */
+}
+
+p {
+    color:aquamarine 
+}
+
+div {
+    background-color: blueviolet;
+    width:500px ; /* largura */
+    height:300px ; /* altura */
+}

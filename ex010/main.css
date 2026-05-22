@@ -1,0 +1,24 @@
+h1{
+    color: midnightblue /* propriedade color e valor dodgerblue */
+}
+
+p {
+    color:purple
+}
+div {
+    border: 5px solid black; /* características em comum entre as 2 divs */
+    width:500px ;
+    height: 300px;
+}
+
+#div1 {
+    background-color: blueviolet;
+    width:500px ; /* largura */
+    height:300px ; /* altura */
+}
+
+#div2 {
+    background-color: turquoise;
+    width:500px ; /* largura */
+    height:300px ; /* altura */
+}
